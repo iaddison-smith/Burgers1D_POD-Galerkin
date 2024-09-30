@@ -1,4 +1,4 @@
-# POD-Galerking reduced order method for 1D Burgers Equation
+# POD-Galerkin reduced order method for 1D Burgers Equation
 
 $$
 \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu\frac{\partial^2 u}{\partial x^2}
